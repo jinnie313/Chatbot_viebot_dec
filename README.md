@@ -1,6 +1,6 @@
 # VieBot
 ## 구미_3_김채은, https://github.com/jinnie313/Chatbot_viebot
----
+
 ### 1. 스펙(Specification)
 (1) 영화 챗봇
 - 키워드 검색으로 해당 영화들을 검색하여 출력<br>
