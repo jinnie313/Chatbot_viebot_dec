@@ -1,5 +1,5 @@
 # VieBot
-## 구미_3반_김채은, https://github.com/jinnie313/Chatbot_viebot
+## 구미_3_김채은, https://github.com/jinnie313/Chatbot_viebot
 ---
 ### 1. 스펙(Specification)
 (1) 영화 챗봇
